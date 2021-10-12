@@ -637,7 +637,7 @@ h6 {
 .portfolio-part {
     background: #f8f9fa;
     text-align: center;
-    
+    overflow-y: hidden;
 }
 
 .portfolio-part h2 {
@@ -765,7 +765,7 @@ h6 {
 
 
 .client-part {
-/*     overflow: hidden; */
+    overflow: hidden;
     position: relative;
 }
 
